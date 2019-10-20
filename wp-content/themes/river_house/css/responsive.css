@@ -1,0 +1,285 @@
+@media only screen and (max-width: 1199px) {
+	.carousel-caption {
+		top: 33%;
+	}
+	.about-txt {
+		padding-left: 50px;
+	}
+	.am-txt h3 {
+		margin-bottom: 0;
+	}
+	.experiance-slider .carousel-caption h3 {
+		font-size: 20px;
+	}
+	.experiance-slider .carousel-caption h3 span {
+		font-size: 50px;
+	}
+}
+@media only screen and (max-width: 1029px) {
+	.ex-box {
+		margin: 0 auto 35px auto;
+	}
+	.all-experiences,
+	.am-box {
+		display: block;
+	}
+	.am-txt, .am-img {
+		width: 100%;
+	}
+	.ex-box:nth-child(3n+3), .ex-box:last-child {
+		margin-right: auto;
+	}
+	.am-box {
+		padding-bottom: 40px;
+	}
+	.am-box .am-txt,
+	.am-box:nth-child(2n+1) .am-txt {
+		padding: 20px;
+	}
+    #experiences {
+		padding-bottom: 0;
+	}
+	#corporate-retreats {
+		padding-bottom: 100px;
+	}
+	.ex-box {
+		width: 50%;
+		padding-bottom: 40px;
+	}
+	.ex-box a {
+		font-size: 16px;
+		position: initial;
+		bottom: unset;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.about-all,
+	.all-about-service,
+	.footer-top .container {
+		display: block;
+	}
+	.about-img, .about-txt {
+		width: 100%;
+		text-align: center;
+	}
+	.about-img {
+		padding-bottom: 40px;
+	}
+	.about-txt {
+		max-width: 100%;
+	}
+	.a-service {
+		margin: 0 0 30px 0;
+		width: 100%;
+	}
+	.footer-all {
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.footer-all:last-child {
+		margin-bottom: 0;
+	}
+	.top-header .address {
+		width: 35%;
+	}
+	.top-header .contact-details {
+		width: 65%;
+	}
+	.top-header .address p,
+	.top-header .contact-details ul li a {
+		font-size: 12px;
+	}
+	.top-header .contact-details ul li {
+		padding-top: 0;
+		padding-bottom: 0;
+		vertical-align: middle;
+	}
+	.navbar-right a {
+		margin-left: 10px !important;
+	}
+	.header-bottom {
+		top: 49px;
+	}
+	.banner-txt h2 {
+		font-size: 35px;
+		line-height: 50px;
+	}
+	.banner-txt h3 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.banner-txt h1 {
+		font-size: 55px;
+		line-height: 88px;
+	}
+	.carousel-caption p {
+		font-size: 18px;
+	}
+	.carousel-caption h3 {
+		font-size: 40px;
+	}
+	.carousel-caption {
+		text-align: center;
+		top: 45%;
+	}
+	.left-arrow, .right-arrow {
+		top: 60%;
+	}
+	.carousel-inner,
+	.carousel-inner > .item,
+	.carousel-inner > .item img {
+		min-height: 400px;
+	}
+	.carousel-inner > .item img  {
+		object-fit: cover;
+		object-position: center;
+	}
+	.about-txt {
+		padding-left: 0;
+	}
+	.statement-bg,
+	.statement-bg.vision {
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.navbar-inverse .navbar-toggle {
+		border-color: #18b8e0;
+		background-color: #18b8e0;
+	}
+	.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+		border-color: 
+	}
+	.navbar-nav {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.navbar-right {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.navbar-inverse .navbar-nav > li > a {
+		margin-left: 0 !important;
+	}
+	.navbar-collapse {
+		padding-right: 15px;
+		background: rgb(255, 255, 255);
+	}
+	.navbar-toggle {
+		margin-top: 25px;
+	}
+	.top-header .address,
+	.top-header .contact-details {
+		width: 100%;
+		text-align: center;
+	}
+	.top-header .container {
+		display: block;
+	}
+	.header-bottom {
+		top: 75px;
+	}
+	.navbar-brand {
+		height: auto;
+	}
+	.navbar-brand > img {
+		width: 70%;
+	}
+	.banner-txt h1 {
+		font-size: 40px;
+		line-height: 40px;
+		padding-bottom: 70px;
+	}
+	.banner-txt h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.banner-txt .page-btn {
+		padding: 20px;
+	}
+	.page-btn, .top-menu .navbar ul li a.page-btn {
+		font-size: 16px;
+	}
+	.corporate-service,
+	.wedding-all {
+		display: block;
+	}
+	.c-box {
+		width: 100%;
+		margin-right: 0;
+		margin-bottom: 20px;
+	}
+	.stay-connect-ex {
+		margin: 0 auto
+	}
+	.experience-tabs ul.nav-tabs li a {
+		font-size: 14px;
+	}
+	.wedding-txt, .wedding-img {
+		width: 100%;
+	}
+	.experiance-slider .carousel-caption h3 span {
+		font-size: 40px;
+	}
+	.experience-tabs ul.nav-tabs,
+	.stay-connect-ex form {
+		flex-wrap: wrap;
+	}
+	.experience-tabs ul.nav-tabs li{
+		width: 45%;
+		margin-bottom: 20px;
+	}
+	.experience-tabs ul.nav-tabs li:nth-child(even) {
+		margin-right: 0;
+	}
+	.experience-tabs {
+		margin-top: 0;
+		padding-top: 40px;
+	}
+	.experience-tabs .tab-content {
+		padding-top: 50px;''
+	}
+	.stay-connect-ex form input {
+		width: 100%;
+		margin-bottom: 10px;
+		margin-right: 0;
+	}
+	.am-txt ul {
+		columns: 1;
+		-webkit-columns: 1;
+		-moz-columns: 1;
+	}
+	.ex-box {
+		width: 100%;
+	}
+	.header-bottom {
+		z-index: 7;
+	}
+	.stay-connect-ex {
+		padding: 40px 20px;
+	}
+	.sub-stay {
+		padding: 50px 0;
+	}
+	.all-experiences {
+		padding-top: 30px;s
+	}
+	.wedding-txt {
+		padding-right: 0;
+	}
+	.am-box {
+		padding-bottom: 20px;
+	}
+}
+@media only screen and (max-width: 463px) {
+	.header-bottom {
+		top: 95px;
+	}
+	.banner-txt h1 {
+		padding-bottom: 50px;
+	}
+	.experience-tabs ul.nav-tabs li a {
+		padding: 10px;
+	}
+}
